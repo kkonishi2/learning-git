@@ -1,3 +1,3 @@
-Hey there! This is a README! :)
+My name is nathanial, I like to dance
 
 You can make changes to it!
